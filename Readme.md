@@ -8,6 +8,8 @@ Codeigniter easy to use, config, manage and extendable PHP MVC Framework.
 
 ### Install
 
+Clone repo and install with composer
+
 ```
 composer install
 ```
