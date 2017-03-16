@@ -11,7 +11,7 @@ Codeigniter easy to use, config, manage and extendable PHP MVC Framework.
 Clone repo and install with composer
 
 ```
-composer install
+composer create-project kenjis/codeigniter-composer-installer project-name
 ```
 
 
